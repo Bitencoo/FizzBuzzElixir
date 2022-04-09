@@ -1,21 +1,4 @@
 # FizzBuzz
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `fizz_buzz` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:fizz_buzz, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/fizz_buzz>.
-
+**First project created with elixir language.**
+**This project consists in change all number divisible by 3 to the word "Fizz" and all numbers divisible by 5 to "Buzz". Also if a number is divisible by 3 and 5, the number should be replace by "FizzBuzz"**
